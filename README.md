@@ -1,5 +1,6 @@
 # Automated Resume Screener
 A production-oriented **Python + NLP system** that automatically screens and ranks resumes against a given job description using **skill matching** and **semantic similarity scoring**.
+
 Designed with a **modular, backend-first architecture** to demonstrate real-world engineering practices beyond notebook or tutorial-style projects.
 
 ---
