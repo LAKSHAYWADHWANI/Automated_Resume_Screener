@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Sensitive / data
+resumes/
+
+# IDE
+.vscode/
+.idea/
+
+# Outputs
+*.xlsx
+*.csv

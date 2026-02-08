@@ -1,0 +1,84 @@
+python
+java
+Sql
+aws
+cloud computing
+eda
+pandas
+numpy
+juyter
+power bi
+tableau
+excel
+advaced excel
+machine learning 
+deep learning
+c++
+dbms
+tensorflow
+nlp
+natural language processing
+django 
+react
+java script
+communication 
+leadership
+html 
+css
+data analysis
+scikit-learning
+artificial intelligence
+AWS
+GCP
+Azure
+Process Optimization
+Design
+Automation
+AutoCAD
+SolidWorks
+MATLAB 
+MS Office
+Power BI
+FEA
+Autodesk Inventor 
+Microsoft Excel
+Tensorflow
+GitHub
+Pytorch
+Keras
+Pandas
+Seaborn
+NLTK
+Streamlit
+Flask
+OpenCV
+Prompt Engineering
+LLM Optimization
+Analytical & Problem Solving 
+Critical Thinking
+Leadership
+Event management
+Interpersonal skills
+PostgreSQL
+Git
+VS Code
+Jupyter
+Object-Oriented Programming
+OOPS
+DBMS
+Data Visualization
+Data Analysis
+Analytical skills
+Canva
+Video editing
+Adobe Photoshop
+Adobe After Effects
+Data Scientist
+Data science
+data analysis
+data analyst
+predictive models
+R
+data preprocessing
+statistics
+cloud platforms

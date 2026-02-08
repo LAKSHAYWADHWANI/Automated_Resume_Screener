@@ -1,0 +1,9 @@
+Sample job description for testing.
+Provide real JD via UI.
+
+We are looking for a detail-oriented Data Scientist to analyze complex datasets, build predictive models, and generate actionable insights to support business decisions.
+The ideal candidate should be proficient in Python or R, and have experience with machine learning libraries like Scikit-learn or TensorFlow. 
+Strong skills in data preprocessing, SQL, and data visualization tools such as Tableau or Matplotlib are essential. 
+A solid foundation in statistics, critical thinking, and the ability to communicate technical results clearly to non-technical teams is expected. 
+Familiarity with cloud platforms (AWS, GCP, or Azure) and version control tools like Git is a plus.
+
