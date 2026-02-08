@@ -52,8 +52,11 @@ Visualization & Export
 The project follows a **layered architecture** inspired by backend systems:
 
 ├── core/ # Configuration & logging
+
 ├── services/ # Business logic (parsing, NLP, scoring)
+
 ├── ui/ # Streamlit UI & presentation helpers
+
 ├── main.py # Application entry point
 
 ### Key Design Decisions
@@ -96,37 +99,38 @@ The project follows a **layered architecture** inspired by backend systems:
 ### 1. Clone the repository
 git clone https://github.com/<your-username>/automated-resume-screener.git
 cd automated-resume-screener
-2. Create and activate a virtual environment
+### 2. Create and activate a virtual environment
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
-3. Install dependencies
+### 3. Install dependencies
 pip install -r requirements.txt
-4. Run the application
+### 4. Run the application
 streamlit run main.py
-📌 Configuration Notes
-skills_list_sample.txt contains sample skills for matching
-Job_Description_Sample.txt demonstrates file-based JD input
-Real resumes or sensitive data are intentionally excluded from the repository
 
-⚠️ Limitations
-No persistent storage (in-memory processing)
-Skill extraction relies on keyword/fuzzy matching
-Not optimized for very large resume batches
-Authentication and access control not implemented
-These are intentional trade-offs for clarity and modularity.
+## 📌 Configuration Notes
+- skills_list_sample.txt contains sample skills for matching
+- Job_Description_Sample.txt demonstrates file-based JD input
+- Real resumes or sensitive data are intentionally excluded from the repository
 
-🔮 Future Improvements:
-FastAPI backend with REST endpoints
-Vector database integration for large-scale similarity search
-Configurable scoring weights
-Resume clustering and analytics
-Unit tests & CI pipeline
-Role-specific scoring profiles
+## ⚠️ Limitations
+- No persistent storage (in-memory processing)
+- Skill extraction relies on keyword/fuzzy matching
+- Not optimized for very large resume batches
+- Authentication and access control not implemented
+- These are intentional trade-offs for clarity and modularity.
 
-👤 Author
+## 🔮 Future Improvements:
+- FastAPI backend with REST endpoints
+- Vector database integration for large-scale similarity search
+- Configurable scoring weights
+- Resume clustering and analytics
+- Unit tests & CI pipeline
+- Role-specific scoring profiles
+
+## 👤 Author
 Lakshay Wadhwani
 B.Tech CSE (AI & Data Science)
 Focused on building real, deployable systems with Python, NLP, and backend engineering principles.
 
-📄 License
+## 📄 License
 This project is for educational and demonstration purposes.
