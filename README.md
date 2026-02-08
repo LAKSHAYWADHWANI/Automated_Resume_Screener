@@ -20,17 +20,29 @@ The focus is on **clean system design, separation of concerns, and extensibility
 ## 🧠 System Workflow
 
 Resume Upload
+
 ↓
+
 Text Extraction (PDF / DOCX / TXT)
+
 ↓
+
 Text Cleaning & Normalization
+
 ↓
+
 Skill Extraction (Fuzzy + Keyword Matching)
+
 ↓
+
 Semantic Similarity Scoring (Embeddings)
+
 ↓
+
 Resume Ranking
+
 ↓
+
 Visualization & Export
 
 ---
